@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Ana Maria Montoya</title>
+    <link>montoyana.github.io/publication/</link>
+      <atom:link href="montoyana.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2020 22:33:07 -0500</lastBuildDate>
+    <image>
+      <url>/montoyana.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>montoyana.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Who Wants Peace? Predicting Civilian Preferences for Conflict Negotiations.</title>
+      <link>montoyana.github.io/publication/concessions/</link>
+      <pubDate>Mon, 23 Nov 2020 22:33:07 -0500</pubDate>
+      <guid>montoyana.github.io/publication/concessions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If You Do Not Go to the Senate, You Will Never Be a Judge Informal Institutions and Selection Criteria for Judges of the Constitutional Court in the Colombian Senate (1992-2009) [In Spanish]</title>
+      <link>montoyana.github.io/publication/concessions1/</link>
+      <pubDate>Sat, 23 Nov 2013 22:33:07 -0500</pubDate>
+      <guid>montoyana.github.io/publication/concessions1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Tellez | Ana Maria Montoya</title>
+    <link>montoyana.github.io/author/juan-tellez/</link>
+      <atom:link href="montoyana.github.io/author/juan-tellez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Tellez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2020 22:33:07 -0500</lastBuildDate>
+    <image>
+      <url>/montoyana.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Juan Tellez</title>
+      <link>montoyana.github.io/author/juan-tellez/</link>
+    </image>
+    
+    <item>
+      <title>Who Wants Peace? Predicting Civilian Preferences for Conflict Negotiations.</title>
+      <link>montoyana.github.io/publication/concessions/</link>
+      <pubDate>Mon, 23 Nov 2020 22:33:07 -0500</pubDate>
+      <guid>montoyana.github.io/publication/concessions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
